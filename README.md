@@ -12,7 +12,7 @@
 
 <!-- Botones de contacto -->
 <p align="center">
-  <a href="www.linkedin.com/in/marcos-berna-canovas-394b51233"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https_//www.linkedin.com/in/marcos-berna-canovas-394b51233"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/MarcosBerna"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://komarev.com/ghpvc/?username=MarcosBerna&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
